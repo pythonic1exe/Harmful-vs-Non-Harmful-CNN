@@ -1,0 +1,9 @@
+fastapi==0.111.1
+uvicorn[standard]==0.22.0
+tensorflow==2.16.2
+gdown==4.7.1
+numpy==1.26.4
+Pillow==10.1.0
+python-multipart==0.0.8
+google-genai==0.2.2
+openai
